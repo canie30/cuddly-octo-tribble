@@ -5,11 +5,11 @@
   "projects": {
     "placeHolder": {
       "i18n": {
-        "sourceLocale": "en-US",
+        "sourceLocale": "fr",
         "locales": {
-          "fr": {
-            "translation": "src/locale/messages.fr.xlf",
-            "baseHref": "fr"
+          "en": {
+            "translation": "src/locale/messages.en.xlf",
+            "baseHref": "en"
           },
           "de": {
             "translation": "src/locale/messages.de.xlf",
